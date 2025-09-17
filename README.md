@@ -1,7 +1,6 @@
 # Hi there 👋  
 
-I’m a 32-year-old frontend development student based in Malmö, Sweden.  
-Before diving into tech, I worked as a **social worker (socionom)**, where I gained valuable experience in **collaboration, communication, and problem-solving** — skills I now bring into my development journey.  
+I'm a former Social Worker who is studying Frontend Development at University of Gothenburg (Kursverksamheten). Knowledgeable in **Python**, **Java** and **C#** but currently studying **HTML**, **CSS** and **Javascript** as part of the Frontend Development.
 
 ## 🌱 What I’m up to
 - Studying **frontend development** with a focus on building **user-friendly, accessible, and responsive** web applications  
