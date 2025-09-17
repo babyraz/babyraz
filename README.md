@@ -1,4 +1,4 @@
-# Hi there 👋  
+# Hello there 👋  
 
 I'm a former Social Worker who is studying Frontend Development at University of Gothenburg (Kursverksamheten). Knowledgeable in **Python**, **Java** and **C#** but currently studying **HTML**, **CSS** and **Javascript** as part of the Frontend Development.
 
