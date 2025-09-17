@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**babyraz/babyraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a 32-year-old frontend development student based in Malmö, Sweden.
+Before diving into tech, I worked as a social worker (socionom), where I gained valuable experience in collaboration, communication, and problem-solving — skills I now bring into my development journey.
 
-Here are some ideas to get you started:
+🌱 What I’m up to
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Studying frontend development with a focus on building user-friendly, accessible, and responsive web applications.
+
+Exploring modern tools and frameworks to grow as a developer.
+
+🤝 What I enjoy
+
+Teamwork & collaboration – I thrive when working together toward shared goals.
+
+Sharing knowledge and learning from others.
+
+🎮 Outside of coding
+
+Video games (always up for recommendations 🎧).
+
+Making music.
+
+Movies & TV shows.
